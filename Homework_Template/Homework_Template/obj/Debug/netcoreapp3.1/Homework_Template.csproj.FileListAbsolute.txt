@@ -1,0 +1,13 @@
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework_Template\Homework_Template\bin\Debug\netcoreapp3.1\Homework_Template.exe
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework_Template\Homework_Template\bin\Debug\netcoreapp3.1\Homework_Template.deps.json
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework_Template\Homework_Template\bin\Debug\netcoreapp3.1\Homework_Template.runtimeconfig.json
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework_Template\Homework_Template\bin\Debug\netcoreapp3.1\Homework_Template.runtimeconfig.dev.json
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework_Template\Homework_Template\bin\Debug\netcoreapp3.1\Homework_Template.dll
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework_Template\Homework_Template\bin\Debug\netcoreapp3.1\Homework_Template.pdb
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework_Template\Homework_Template\obj\Debug\netcoreapp3.1\Homework_Template.csprojAssemblyReference.cache
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework_Template\Homework_Template\obj\Debug\netcoreapp3.1\Homework_Template.AssemblyInfoInputs.cache
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework_Template\Homework_Template\obj\Debug\netcoreapp3.1\Homework_Template.AssemblyInfo.cs
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework_Template\Homework_Template\obj\Debug\netcoreapp3.1\Homework_Template.csproj.CoreCompileInputs.cache
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework_Template\Homework_Template\obj\Debug\netcoreapp3.1\Homework_Template.dll
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework_Template\Homework_Template\obj\Debug\netcoreapp3.1\Homework_Template.pdb
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework_Template\Homework_Template\obj\Debug\netcoreapp3.1\Homework_Template.genruntimeconfig.cache
