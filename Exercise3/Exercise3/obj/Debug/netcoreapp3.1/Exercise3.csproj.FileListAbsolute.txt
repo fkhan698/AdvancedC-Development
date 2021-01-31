@@ -1,0 +1,11 @@
+C:\Users\fkhan\source\repos\AdvancedCS-Development\Exercise3\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.exe
+C:\Users\fkhan\source\repos\AdvancedCS-Development\Exercise3\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.deps.json
+C:\Users\fkhan\source\repos\AdvancedCS-Development\Exercise3\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.runtimeconfig.json
+C:\Users\fkhan\source\repos\AdvancedCS-Development\Exercise3\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.runtimeconfig.dev.json
+C:\Users\fkhan\source\repos\AdvancedCS-Development\Exercise3\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.dll
+C:\Users\fkhan\source\repos\AdvancedCS-Development\Exercise3\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.pdb
+C:\Users\fkhan\source\repos\AdvancedCS-Development\Exercise3\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.csprojAssemblyReference.cache
+C:\Users\fkhan\source\repos\AdvancedCS-Development\Exercise3\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.AssemblyInfoInputs.cache
+C:\Users\fkhan\source\repos\AdvancedCS-Development\Exercise3\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.AssemblyInfo.cs
+C:\Users\fkhan\source\repos\AdvancedCS-Development\Exercise3\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.dll
+C:\Users\fkhan\source\repos\AdvancedCS-Development\Exercise3\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.pdb
