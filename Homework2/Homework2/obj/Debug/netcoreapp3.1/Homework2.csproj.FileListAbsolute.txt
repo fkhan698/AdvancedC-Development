@@ -1,0 +1,13 @@
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework2\Homework2\bin\Debug\netcoreapp3.1\Homework2.exe
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework2\Homework2\bin\Debug\netcoreapp3.1\Homework2.deps.json
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework2\Homework2\bin\Debug\netcoreapp3.1\Homework2.runtimeconfig.json
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework2\Homework2\bin\Debug\netcoreapp3.1\Homework2.runtimeconfig.dev.json
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework2\Homework2\bin\Debug\netcoreapp3.1\Homework2.dll
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework2\Homework2\bin\Debug\netcoreapp3.1\Homework2.pdb
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework2\Homework2\obj\Debug\netcoreapp3.1\Homework2.csprojAssemblyReference.cache
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework2\Homework2\obj\Debug\netcoreapp3.1\Homework2.AssemblyInfoInputs.cache
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework2\Homework2\obj\Debug\netcoreapp3.1\Homework2.AssemblyInfo.cs
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework2\Homework2\obj\Debug\netcoreapp3.1\Homework2.csproj.CoreCompileInputs.cache
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework2\Homework2\obj\Debug\netcoreapp3.1\Homework2.dll
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework2\Homework2\obj\Debug\netcoreapp3.1\Homework2.pdb
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\Homework2\Homework2\obj\Debug\netcoreapp3.1\Homework2.genruntimeconfig.cache
