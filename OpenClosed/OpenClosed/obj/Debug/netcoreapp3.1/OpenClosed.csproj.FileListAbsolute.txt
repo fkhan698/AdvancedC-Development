@@ -1,0 +1,13 @@
+C:\Users\Fzk1998\source\repos\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.exe
+C:\Users\Fzk1998\source\repos\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.deps.json
+C:\Users\Fzk1998\source\repos\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.runtimeconfig.json
+C:\Users\Fzk1998\source\repos\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.runtimeconfig.dev.json
+C:\Users\Fzk1998\source\repos\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.dll
+C:\Users\Fzk1998\source\repos\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.pdb
+C:\Users\Fzk1998\source\repos\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.csprojAssemblyReference.cache
+C:\Users\Fzk1998\source\repos\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.AssemblyInfoInputs.cache
+C:\Users\Fzk1998\source\repos\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.AssemblyInfo.cs
+C:\Users\Fzk1998\source\repos\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\Fzk1998\source\repos\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.dll
+C:\Users\Fzk1998\source\repos\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.pdb
+C:\Users\Fzk1998\source\repos\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.genruntimeconfig.cache
