@@ -75,7 +75,7 @@ namespace Homework2
 
         }
 
-        static double CalculateTax(List<ITaxable> items)
+       public static double CalculateTax(List<ITaxable> items)
         {
             double tax = 0D;
 
@@ -88,7 +88,7 @@ namespace Homework2
 
         }
 
-        static double CalculateShipping(List<IShippable> items)
+       public static double CalculateShipping(List<IShippable> items)
         {
             double shipping = 0D;
 
@@ -108,6 +108,8 @@ namespace Homework2
             items.ForEach(p => total += p.Price);
             return total;
         }
+
+       
     }
 
     public class Appointment : IPurchasable

@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fzk1998\\source\\repos\\AdvancedCS-Development\\Homework2\\Homework2\\Homework2.csproj": {}
+    "C:\\Users\\fkhan\\source\\repos\\AdvancedCS-Development\\Homework2\\Homework2\\Homework2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fzk1998\\source\\repos\\AdvancedCS-Development\\Homework2\\Homework2\\Homework2.csproj": {
+    "C:\\Users\\fkhan\\source\\repos\\AdvancedCS-Development\\Homework2\\Homework2\\Homework2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fzk1998\\source\\repos\\AdvancedCS-Development\\Homework2\\Homework2\\Homework2.csproj",
+        "projectUniqueName": "C:\\Users\\fkhan\\source\\repos\\AdvancedCS-Development\\Homework2\\Homework2\\Homework2.csproj",
         "projectName": "Homework2",
-        "projectPath": "C:\\Users\\Fzk1998\\source\\repos\\AdvancedCS-Development\\Homework2\\Homework2\\Homework2.csproj",
-        "packagesPath": "C:\\Users\\Fzk1998\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fzk1998\\source\\repos\\AdvancedCS-Development\\Homework2\\Homework2\\obj\\",
+        "projectPath": "C:\\Users\\fkhan\\source\\repos\\AdvancedCS-Development\\Homework2\\Homework2\\Homework2.csproj",
+        "packagesPath": "C:\\Users\\fkhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fkhan\\source\\repos\\AdvancedCS-Development\\Homework2\\Homework2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Fzk1998\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fkhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
