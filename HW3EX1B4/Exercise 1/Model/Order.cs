@@ -12,10 +12,8 @@ namespace HW3EX1B4.Model
         public abstract void Checkout(Cart cart, PaymentDetails paymentDetails, bool notifyCustomer);
         public abstract void ReserveInventory(Cart cart);
         public abstract void NotifyCustomer(Cart cart);
-        public abstract void ChargeCard(PaymentDetails paymentDetails, Cart cart);
+        public abstract void Charge(PaymentDetails paymentDetails, Cart cart);
 
-      
-   
     }
 }
 

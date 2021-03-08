@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace HW3EX1B4.Model
 {
-    class Charge
+   public class ChargeItems
     {
         public static void ChargeCard(PaymentDetails paymentDetails, Cart cart)
         {
@@ -32,6 +32,24 @@ namespace HW3EX1B4.Model
                 {
                     throw new OrderException("There was a problem with your card.", ex);
                 }
+            }
+        }
+        public static void ChargeCash(PaymentDetails paymentDetails, Cart cart)
+        {
+            using (var paymentGateway = new PaymentGateway())
+                try
+            {
+                paymentGateway.AmountToCharge = cart.TotalAmount;
+
+                paymentGateway.Charge();
+            }
+            catch (AvsMismatchException ex)
+            {
+                throw new OrderException("The card gateway rejected the card based on the address provided.", ex);
+            }
+            catch (Exception ex)
+            {
+                throw new OrderException("There was a problem with your card.", ex);
             }
         }
     }
