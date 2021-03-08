@@ -48,13 +48,27 @@
     </CodeAnalysisDependentAssemblyPaths>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Model\Cart.cs" />
-    <Compile Include="Utility\Logger.cs" />
-    <Compile Include="Model\Order.cs" />
-    <Compile Include="Model\PaymentDetails.cs" />
+    <Compile Include="Exercise 1\Model\Cart.cs" />
+    <Compile Include="Exercise 1\Model\CashSaleOrder.cs" />
+    <Compile Include="Exercise 1\Model\CreditSaleOrder.cs" />
+    <Compile Include="Exercise 1\Model\Methods\ChargeItems.cs" />
+    <Compile Include="Exercise 1\Model\Methods\Inventory.cs" />
+    <Compile Include="Exercise 1\Model\Methods\Notify.cs" />
+    <Compile Include="Exercise 1\Model\OnlineSaleOrder.cs" />
+    <Compile Include="Exercise 1\Model\Order.cs" />
+    <Compile Include="Exercise 1\Model\PaymentDetails.cs" />
+    <Compile Include="Exercise 1\Model\PointOfSaleOrder.cs" />
+    <Compile Include="Exercise 1\Services\InventorySystem.cs" />
+    <Compile Include="Exercise 1\Services\PaymentGateway.cs" />
+    <Compile Include="Exercise 1\Utility\Logger.cs" />
+    <Compile Include="Exercise 2\ISideLength.cs" />
+    <Compile Include="Exercise 2\Program.cs" />
+    <Compile Include="Exercise 2\IHeight.cs" />
+    <Compile Include="Exercise 2\IWidth.cs" />
+    <Compile Include="Exercise 2\Rectangle.cs" />
+    <Compile Include="Exercise 2\Shape.cs" />
+    <Compile Include="Exercise 2\Square.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Services\InventorySystem.cs" />
-    <Compile Include="Services\PaymentGateway.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -14,3 +14,11 @@ C:\Users\fkhan\OneDrive\Documents\HW3EX1B4\obj\Debug\HW3EX1B4.csproj.CoreCompile
 C:\Users\fkhan\OneDrive\Documents\HW3EX1B4\obj\Debug\HW3EX1B4.csproj.CopyComplete
 C:\Users\fkhan\OneDrive\Documents\HW3EX1B4\obj\Debug\HW3EX1B4.dll
 C:\Users\fkhan\OneDrive\Documents\HW3EX1B4\obj\Debug\HW3EX1B4.pdb
+C:\Users\fkhan\Source\Repos\AdvancedCS-Development\HW3EX1B4\bin\Debug\HW3EX1B4.dll
+C:\Users\fkhan\Source\Repos\AdvancedCS-Development\HW3EX1B4\bin\Debug\HW3EX1B4.pdb
+C:\Users\fkhan\Source\Repos\AdvancedCS-Development\HW3EX1B4\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\fkhan\Source\Repos\AdvancedCS-Development\HW3EX1B4\obj\Debug\HW3EX1B4.csprojAssemblyReference.cache
+C:\Users\fkhan\Source\Repos\AdvancedCS-Development\HW3EX1B4\obj\Debug\HW3EX1B4.csproj.CoreCompileInputs.cache
+C:\Users\fkhan\Source\Repos\AdvancedCS-Development\HW3EX1B4\obj\Debug\HW3EX1B4.csproj.CopyComplete
+C:\Users\fkhan\Source\Repos\AdvancedCS-Development\HW3EX1B4\obj\Debug\HW3EX1B4.dll
+C:\Users\fkhan\Source\Repos\AdvancedCS-Development\HW3EX1B4\obj\Debug\HW3EX1B4.pdb
