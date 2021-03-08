@@ -1,5 +1,6 @@
 using HW3EX1B4.Exercise_2;
 using HW3EX1B4.Model;
+using HW3EX1B4.Services;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
@@ -9,18 +10,49 @@ namespace HW3EX1.Tests
     [TestClass]
     public class UnitTest1
     {
+
         [TestMethod]
         public void TestExceptionisThrownByMethod()
         {
             var pointSaleOrder = new PointOfSaleOrder();
+            var cart = new Cart();
             try
             {
-                pointSaleOrder.NotifyCustomer();
+                pointSaleOrder.NotifyCustomer(cart);
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Assert.Fail("Expected no exception" + ex.Message);
             }
+            
+        }
+
+        [TestMethod]
+        public void TestCashMethod()
+        {
+            var order = new CashSaleOrder();
+            var cart = new Cart();
+            Exception ex = Assert.ThrowsException<InsufficientInventoryException>(() => order.Checkout(cart, ));
+        }
+            [TestMethod]
+        public void ChargeCardIsInstanceTest()
+        {
+            //Arrange
+            List<PaymentGateway> expectedCreditials = new List<PaymentGateway>();
+
+            //act
+            expectedCreditials.Add(new PaymentGateway()
+            {
+                Credentials = "account creditial",
+                CardNumber = "4567",
+                ExpiresMonth = "January",
+                NameOnCard = "Faizan",
+                AmountToCharge = 1000.00m
+            });
+
+            //Assert
+            CollectionAssert.AllItemsAreInstancesOfType(expectedCreditials, typeof(PaymentGateway));
+
         }
 
         [TestMethod]
