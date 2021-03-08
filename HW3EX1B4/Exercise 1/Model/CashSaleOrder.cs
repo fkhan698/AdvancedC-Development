@@ -27,7 +27,7 @@ namespace HW3EX1B4.Model
 
         public override void  ReserveInventory(Cart cart)
         {
-            throw new NotImplementedException();
+            Inventory.ReserveInventory(cart);
         }
 
         public override void NotifyCustomer(Cart cart)

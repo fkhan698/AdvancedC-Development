@@ -15,22 +15,16 @@ namespace HW3EX1B4.Model
         {
             Charge(paymentDetails, cart);
 
-            ReserveInventory(cart);
-
-            if (notifyCustomer)
-            {
-                NotifyCustomer(cart);
-            }
         }
 
 
         public override void ReserveInventory(Cart cart)
         {
-            Inventory.ReserveInventory(cart);
+            throw new NotImplementedException();
         }
         public override void NotifyCustomer(Cart cart)
         {
-            Notify.NotifyCustomer(cart);
+            throw new NotImplementedException();
         }
 
         public override void Charge(PaymentDetails paymentDetails, Cart cart)

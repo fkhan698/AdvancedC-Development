@@ -62,7 +62,7 @@
     <Compile Include="Exercise 1\Services\PaymentGateway.cs" />
     <Compile Include="Exercise 1\Utility\Logger.cs" />
     <Compile Include="Exercise 2\ISideLength.cs" />
-    <Compile Include="Exercise 2\Program.cs" />
+    <Compile Include="Exercise 2\AreaCalculator.cs" />
     <Compile Include="Exercise 2\IHeight.cs" />
     <Compile Include="Exercise 2\IWidth.cs" />
     <Compile Include="Exercise 2\Rectangle.cs" />

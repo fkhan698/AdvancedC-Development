@@ -2,5 +2,6 @@
 {
     public interface ISideLength
     {
+        int SideLength { get; set; }
     }
 }

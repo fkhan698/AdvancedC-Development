@@ -6,15 +6,8 @@ using System.Threading.Tasks;
 
 namespace HW3EX1B4.Exercise_2
 {
-    public class Program {
-
-        static void Main(string[] args)
-        {
-
-        }
-
-    }
-    public class AreaCalc
+ 
+    public class AreaCalculator
     {
         public static int CalculateRectArea(Rectangle r)
         {
@@ -25,5 +18,6 @@ namespace HW3EX1B4.Exercise_2
         {
             return s.Height * s.Width;
         }
+
     }
 }
