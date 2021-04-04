@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gDwxtBKcupR8WkhEJuHbY4x9EnjtPNr0t37tZQRcJB9Is/ots9LbOwbCrIlTKIWJsGHdFbXiwEAU7TyGOYaAsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fzk1998\\source\\repos\\AdvancedCS-Development\\DIP_Demo\\DIP_Demo\\DIP_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fzk1998\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\Fzk1998\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

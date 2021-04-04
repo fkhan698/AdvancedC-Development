@@ -1,0 +1,16 @@
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\DIP_Demo\DIP_Demo\bin\Debug\netcoreapp3.1\DIP_Demo.exe
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\DIP_Demo\DIP_Demo\bin\Debug\netcoreapp3.1\DIP_Demo.deps.json
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\DIP_Demo\DIP_Demo\bin\Debug\netcoreapp3.1\DIP_Demo.runtimeconfig.json
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\DIP_Demo\DIP_Demo\bin\Debug\netcoreapp3.1\DIP_Demo.runtimeconfig.dev.json
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\DIP_Demo\DIP_Demo\bin\Debug\netcoreapp3.1\DIP_Demo.dll
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\DIP_Demo\DIP_Demo\bin\Debug\netcoreapp3.1\DIP_Demo.pdb
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\DIP_Demo\DIP_Demo\obj\Debug\netcoreapp3.1\DIP_Demo.csprojAssemblyReference.cache
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\DIP_Demo\DIP_Demo\obj\Debug\netcoreapp3.1\DIP_Demo.AssemblyInfoInputs.cache
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\DIP_Demo\DIP_Demo\obj\Debug\netcoreapp3.1\DIP_Demo.AssemblyInfo.cs
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\DIP_Demo\DIP_Demo\obj\Debug\netcoreapp3.1\DIP_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\DIP_Demo\DIP_Demo\obj\Debug\netcoreapp3.1\DIP_Demo.dll
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\DIP_Demo\DIP_Demo\obj\Debug\netcoreapp3.1\DIP_Demo.pdb
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\DIP_Demo\DIP_Demo\obj\Debug\netcoreapp3.1\DIP_Demo.genruntimeconfig.cache
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\DIP_Demo\DIP_Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\DIP_Demo\DIP_Demo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\DIP_Demo\DIP_Demo\obj\Debug\netcoreapp3.1\DIP_Demo.csproj.CopyComplete
