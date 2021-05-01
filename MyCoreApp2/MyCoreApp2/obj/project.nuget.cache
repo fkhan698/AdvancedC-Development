@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vS4W3EedN876sPsv9S/SwEWeS8OLY0g/lLI8W16CR4DZC427W3GakufwiVB5augzU8whbAU1hOdrssDI2lE4HA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fkhan\\source\\repos\\AdvancedCS-Development\\MyCoreApp2\\MyCoreApp2\\MyCoreApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fkhan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

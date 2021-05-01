@@ -1,0 +1,3 @@
+C:\Users\fkhan\source\repos\AdvancedCS-Development\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.AssemblyInfoInputs.cache
+C:\Users\fkhan\source\repos\AdvancedCS-Development\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.AssemblyInfo.cs
+C:\Users\fkhan\source\repos\AdvancedCS-Development\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.csproj.CoreCompileInputs.cache

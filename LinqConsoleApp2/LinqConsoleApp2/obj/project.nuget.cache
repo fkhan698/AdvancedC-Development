@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KGynPFOZ9mWJBTusX17Lvr4vviaI41j3gXOamoC8fbqBV0pg/sF47i95eSqaypzCbPSlBifm0c8jHkSxtRUnPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fkhan\\source\\repos\\AdvancedCS-Development\\LinqConsoleApp2\\LinqConsoleApp2\\LinqConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fkhan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
