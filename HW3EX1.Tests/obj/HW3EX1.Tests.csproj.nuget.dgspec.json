@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fkhan\\Source\\Repos\\AdvancedCS-Development\\HW3EX1.Tests\\HW3EX1.Tests.csproj": {}
+    "C:\\Users\\Fzk1998\\source\\repos\\AdvancedCS-Development\\HW3EX1.Tests\\HW3EX1.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fkhan\\Source\\Repos\\AdvancedCS-Development\\HW3EX1.Tests\\HW3EX1.Tests.csproj": {
+    "C:\\Users\\Fzk1998\\source\\repos\\AdvancedCS-Development\\HW3EX1.Tests\\HW3EX1.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fkhan\\Source\\Repos\\AdvancedCS-Development\\HW3EX1.Tests\\HW3EX1.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Fzk1998\\source\\repos\\AdvancedCS-Development\\HW3EX1.Tests\\HW3EX1.Tests.csproj",
         "projectName": "HW3EX1.Tests",
-        "projectPath": "C:\\Users\\fkhan\\Source\\Repos\\AdvancedCS-Development\\HW3EX1.Tests\\HW3EX1.Tests.csproj",
-        "packagesPath": "C:\\Users\\fkhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fkhan\\Source\\Repos\\AdvancedCS-Development\\HW3EX1.Tests\\obj\\",
+        "projectPath": "C:\\Users\\Fzk1998\\source\\repos\\AdvancedCS-Development\\HW3EX1.Tests\\HW3EX1.Tests.csproj",
+        "packagesPath": "C:\\Users\\Fzk1998\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fzk1998\\source\\repos\\AdvancedCS-Development\\HW3EX1.Tests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\fkhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fzk1998\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\fkhan\\Source\\Repos\\AdvancedCS-Development\\HW3EX1B4\\HW3EX1B4.csproj": {
-                "projectPath": "C:\\Users\\fkhan\\Source\\Repos\\AdvancedCS-Development\\HW3EX1B4\\HW3EX1B4.csproj"
+              "C:\\Users\\Fzk1998\\source\\repos\\AdvancedCS-Development\\HW3EX1B4\\HW3EX1B4.csproj": {
+                "projectPath": "C:\\Users\\Fzk1998\\source\\repos\\AdvancedCS-Development\\HW3EX1B4\\HW3EX1B4.csproj"
               }
             }
           }
@@ -76,15 +79,15 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\fkhan\\Source\\Repos\\AdvancedCS-Development\\HW3EX1B4\\HW3EX1B4.csproj": {
+    "C:\\Users\\Fzk1998\\source\\repos\\AdvancedCS-Development\\HW3EX1B4\\HW3EX1B4.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\fkhan\\Source\\Repos\\AdvancedCS-Development\\HW3EX1B4\\HW3EX1B4.csproj",
+        "projectUniqueName": "C:\\Users\\Fzk1998\\source\\repos\\AdvancedCS-Development\\HW3EX1B4\\HW3EX1B4.csproj",
         "projectName": "HW3EX1B4",
-        "projectPath": "C:\\Users\\fkhan\\Source\\Repos\\AdvancedCS-Development\\HW3EX1B4\\HW3EX1B4.csproj"
+        "projectPath": "C:\\Users\\Fzk1998\\source\\repos\\AdvancedCS-Development\\HW3EX1B4\\HW3EX1B4.csproj"
       },
       "frameworks": {
         "net461": {}

@@ -1,0 +1,13 @@
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\ISPExercise1\ISPExercise1\obj\Debug\netcoreapp3.1\ISPExercise1.csprojAssemblyReference.cache
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\ISPExercise1\ISPExercise1\obj\Debug\netcoreapp3.1\ISPExercise1.AssemblyInfoInputs.cache
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\ISPExercise1\ISPExercise1\obj\Debug\netcoreapp3.1\ISPExercise1.AssemblyInfo.cs
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\ISPExercise1\ISPExercise1\obj\Debug\netcoreapp3.1\ISPExercise1.csproj.CoreCompileInputs.cache
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\ISPExercise1\ISPExercise1\bin\Debug\netcoreapp3.1\ISPExercise1.exe
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\ISPExercise1\ISPExercise1\bin\Debug\netcoreapp3.1\ISPExercise1.deps.json
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\ISPExercise1\ISPExercise1\bin\Debug\netcoreapp3.1\ISPExercise1.runtimeconfig.json
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\ISPExercise1\ISPExercise1\bin\Debug\netcoreapp3.1\ISPExercise1.runtimeconfig.dev.json
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\ISPExercise1\ISPExercise1\bin\Debug\netcoreapp3.1\ISPExercise1.dll
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\ISPExercise1\ISPExercise1\bin\Debug\netcoreapp3.1\ISPExercise1.pdb
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\ISPExercise1\ISPExercise1\obj\Debug\netcoreapp3.1\ISPExercise1.dll
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\ISPExercise1\ISPExercise1\obj\Debug\netcoreapp3.1\ISPExercise1.pdb
+C:\Users\Fzk1998\source\repos\AdvancedCS-Development\ISPExercise1\ISPExercise1\obj\Debug\netcoreapp3.1\ISPExercise1.genruntimeconfig.cache
