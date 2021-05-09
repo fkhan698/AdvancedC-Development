@@ -1,0 +1,7 @@
+C:\Users\fkhan\source\repos\AdvancedCS-Development\LinqApp3\LinqApp3\bin\Debug\LinqApp3.exe.config
+C:\Users\fkhan\source\repos\AdvancedCS-Development\LinqApp3\LinqApp3\bin\Debug\LinqApp3.exe
+C:\Users\fkhan\source\repos\AdvancedCS-Development\LinqApp3\LinqApp3\bin\Debug\LinqApp3.pdb
+C:\Users\fkhan\source\repos\AdvancedCS-Development\LinqApp3\LinqApp3\obj\Debug\LinqApp3.csprojAssemblyReference.cache
+C:\Users\fkhan\source\repos\AdvancedCS-Development\LinqApp3\LinqApp3\obj\Debug\LinqApp3.csproj.CoreCompileInputs.cache
+C:\Users\fkhan\source\repos\AdvancedCS-Development\LinqApp3\LinqApp3\obj\Debug\LinqApp3.exe
+C:\Users\fkhan\source\repos\AdvancedCS-Development\LinqApp3\LinqApp3\obj\Debug\LinqApp3.pdb
